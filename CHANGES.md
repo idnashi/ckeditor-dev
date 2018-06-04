@@ -6,6 +6,7 @@
 Fixed Issues:
 
 * [#1181](https://github.com/ckeditor/ckeditor-dev/issues/1181): [Chrome] Fixed: Opening context menu in readonly editor results in error.
+* [#586](https://github.com/ckeditor/ckeditor-dev/issues/586) Fixed: required attribute not being correctly recognized by form dialog.
 
 ## CKEditor 4.10.1
 
