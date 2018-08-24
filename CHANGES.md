@@ -25,6 +25,7 @@ Fixed Issues:
 * [#1816](https://github.com/ckeditor/ckeditor-dev/issues/1816): Fixed: Table breaks when <kbd>Enter</kbd> was pressed over [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin.
 * [#1115](https://github.com/ckeditor/ckeditor-dev/issues/1115): Fixed: `<font>` tag is not preserved, when proper config is provided and style is applied by [Font](https://ckeditor.com/cke4/addon/font) plugin.
 * [#727](https://github.com/ckeditor/ckeditor-dev/issues/727): Fixed: custom styles might be invisible in [Styles Combo](https://ckeditor.com/cke4/addon/stylescombo) plugin.
+* [#1264](https://github.com/ckeditor/ckeditor-dev/issues/1264) Fixed: Right-click doesn't clear selection created with [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin.
 
 API Changes:
 
