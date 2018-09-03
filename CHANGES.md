@@ -6,7 +6,7 @@
 Fixed Issues:
 
 * [#1181](https://github.com/ckeditor/ckeditor-dev/issues/1181): [Chrome] Fixed: Opening context menu in readonly editor results in error.
-* [#1268](https://github.com/ckeditor/ckeditor-dev/issues/1268): Fixed: Dropdown doesn't show hover state inside balloon toolbar.
+* [#1268](https://github.com/ckeditor/ckeditor-dev/issues/1268): Fixed: Dropdown doesn't show hover state inside [Balloon Toolbar](https://ckeditor.com/cke4/addon/balloontoolbar).
 
 ## CKEditor 4.10.1
 
